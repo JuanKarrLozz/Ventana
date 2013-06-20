@@ -9,9 +9,15 @@ public class Main {
 		
 		//Ventana ventana=new Ventana(600, 600, "Hola");
 		//ClaseComponentesPosiciones posiciones=new ClaseComponentesPosiciones();
-		ToolBarDemo tablero=new ToolBarDemo();
-		tablero.setVisible(true);
 		
+		//ToolBarDemo tablero=new ToolBarDemo();
+		//tablero.setVisible(true);
+		
+		Menu men = new Menu();		
+		men.setVisible(true);
+		
+		//ClaseComponentesPosiciones ccp = new ClaseComponentesPosiciones();
+		//ccp.setVisible(true);
 	}
 
 }
